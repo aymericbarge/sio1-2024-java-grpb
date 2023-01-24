@@ -1,0 +1,67 @@
+[33mcommit 0c919b37f04b7dfd97a86b0689cb08d5e319a95c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 7536f2d 0e0e5de
+Author: aymericbarge <aymeric-barge@hotmail.fr>
+Date:   Tue Jan 24 09:37:39 2023 +0100
+
+    Merge branch 'bugfix1'
+
+[33mcommit 7536f2d06e939bb2ae897d9cbb7ba78a9362444a[m
+Author: aymericbarge <aymeric-barge@hotmail.fr>
+Date:   Tue Jan 24 09:27:14 2023 +0100
+
+    je suis encore le commit
+
+[33mcommit 0e0e5de3ab541188b2fbcfbad7835009feffe00d[m[33m ([m[1;32mbugfix1[m[33m)[m
+Author: aymericbarge <aymeric-barge@hotmail.fr>
+Date:   Tue Jan 24 09:20:53 2023 +0100
+
+    ajout du fichier ok.java
+
+[33mcommit 9a22c5de5e0246c25ca0cfe6fe2a0657e73502c7[m
+Author: aymericbarge <aymeric-barge@hotmail.fr>
+Date:   Tue Jan 24 09:12:35 2023 +0100
+
+    je suis le commit
+
+[33mcommit 20d8c313903c239d647ba3113065cc8ee4c8c6c9[m
+Author: aymericbarge <114468200+aymericbarge@users.noreply.github.com>
+Date:   Tue Jan 24 08:51:28 2023 +0100
+
+    Update README.md
+
+[33mcommit 9edb2da9221a6867f258c89ca5756d49382c0b62[m
+Merge: 3e12fcb 10c5df3
+Author: pgahide <patrice.gahide@gmail.com>
+Date:   Tue Oct 11 12:09:54 2022 +0200
+
+    Merge branch 'master' of https://github.com/rose-line/sio1-2024-java-grpa
+
+[33mcommit 3e12fcb0ccf52a513e231d6e6e7ac6ee8704b031[m
+Author: pgahide <patrice.gahide@gmail.com>
+Date:   Tue Oct 11 12:09:43 2022 +0200
+
+    fin de cours 11/10
+
+[33mcommit 10c5df3fa7fbe3e02109257c003a1ce57002295e[m
+Author: rose-line <1886792+rose-line@users.noreply.github.com>
+Date:   Tue Sep 27 21:13:47 2022 +0200
+
+    Create codeql-analysis.yml
+
+[33mcommit 58de2c2ce946f19198ed3fbcf10ecf15bb3dd763[m
+Author: pgahide <patrice.gahide@gmail.com>
+Date:   Tue Sep 27 12:16:36 2022 +0200
+
+    Fin de cours 27/09
+
+[33mcommit 687c54247d631c17b5744f7aa7429b97a6e4d85e[m
+Author: pgahide <patrice.gahide@gmail.com>
+Date:   Tue Sep 27 11:41:12 2022 +0200
+
+    ajout d'un commentaire bidon
+
+[33mcommit cbf875b67f4c4925e201d5b1f7b147089a0ca9c7[m
+Author: pgahide <patrice.gahide@gmail.com>
+Date:   Tue Sep 27 11:02:49 2022 +0200
+
+    first commit
